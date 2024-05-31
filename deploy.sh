@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Set your Docker Hub credentials
+DOCKER_USERNAME="marcsamuel07"
+DOCKER_PASSWORD="dckr_pat_lvLLhQ4zNuygOPjlXsUNgpeewUs"
+
 # Set your Docker repository details
 DOCKER_REPO="prod"
 DOCKER_TAG="latest"
