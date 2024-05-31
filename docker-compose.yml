@@ -1,0 +1,8 @@
+version: '3'
+services:
+  react-app:
+    image: marc_proj
+    ports:
+      - "80:80"
+    restart: unless-stopped
+
